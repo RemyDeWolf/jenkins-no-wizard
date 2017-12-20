@@ -1,7 +1,7 @@
 # jenkins-no-wizard
-Extend the official Jenkins image, but turns off the wizard, disable authentication.
+This docker image extends the official Jenkins image. The wizard and user authentication are disabled.
 
-To be used for testing, provide quick Jenkins server up and running.
+The aim is to provide a quick way to run a Jenkins server used for testing: no wizard to run, no authentication to configure.
 
 
 * Build and run locally:
